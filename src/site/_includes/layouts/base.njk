@@ -3,28 +3,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Serif|Source+Pro:400,700">
     <link rel="stylesheet" href="/css/main.css" />
     <title>{{ title }}</title>
   </head>
-  <body class="{{ bodyClass }}" >
-    <div class="container">
-      <header>
+  <body>
+    <header>
         <ul class="nav">
-          <li>
-            <a href="/">home<small>where the heart is</small></a>
-          </li>
-          <li>
-            <a href="/about">about<small>all about this</small></a>
-          </li>
-        </ul>
-        <h1>{{ title }}</h1>
-        {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
-      </header>
+        <li><a href="/volunteering">Volunteering</a></li>
+        <li><a href="/history">History</a></li>
+        <li><a href="/faq">Questions</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      <h1><a href="/">St Albans Good Neighbours Scheme</a></h1>
+      <div class="container">
+        <p class="summary">
+          A little help from your community.<br />
+          Operated by local volunteers since 1980.
+        </p>
+      </div>
+      <a href="tel:+441727830713" class="cta-phone">Need help? Call us on 01727&nbsp;830&nbsp;713</a>
+    </header>
+    <div class="container">
       {{ content | safe }}
-      {% include "footer.njk" %}
     </div>
+    {% include "footer.njk" %}
   </body>
 </html>
-
-
-

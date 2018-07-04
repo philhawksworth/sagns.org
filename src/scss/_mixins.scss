@@ -1,4 +1,9 @@
 @mixin bp($point) {
+
+  $bp-narrow: "(min-width: 400px)";
+  $bp-mid: "(min-width: 600px)";
+  $bp-wide: "(min-width: 900px)";
+
   @if $point == narrow {
     @media #{$bp-narrow} { @content; }
   }
@@ -8,4 +13,5 @@
   @else if $point == wide {
     @media #{$bp-wide}  { @content; }
   }
+
 }
