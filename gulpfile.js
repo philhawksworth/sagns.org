@@ -21,8 +21,7 @@ gulp.task('generate', shell.task('eleventy'));
 */
 gulp.task('assets', gulp.parallel(
   'images',
-  'styles',
-  'scripts'
+  'styles'
 ));
 
 
@@ -40,7 +39,6 @@ gulp.task('build:local', gulp.series(
   Let's gwt the data we need and then build this sucker.
 */
 gulp.task('build', gulp.series(
-  // 'get:data',
   'generate',
   'assets'
 ));
