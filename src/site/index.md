@@ -52,3 +52,9 @@ To learn how you can become a volunteer, or to find out more about other ways yo
 Alternatively, you can submit your details directly on this site and we will be in touch. Simply fill out our [volunteer contact form](/contact#volunteer)
 
 
+
+## GDPR - Data Protection Privacy Notice
+
+We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/docs/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:dpo@sagns.org).
+
+
