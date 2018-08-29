@@ -16,7 +16,6 @@ We may be able to provide help with all kinds of things, including
 - gardening
 - odd jobs etc.
 
-
 ## About the scheme
 
 The St Albans Good Neighbour Scheme is a free service, run entirely by volunteers and has been in operation since 1980. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call <a href="tel:+441727830713">01727 830 713</a> to speak to one of our duty officers.
