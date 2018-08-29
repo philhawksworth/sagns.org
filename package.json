@@ -4,9 +4,6 @@
   "description": "A project bootstrap for Eleventy sites. With pipelines for Sass, Js, and Lambdas",
   "author": "Phil Hawksworth",
   "license": "MIT",
-  "scripts": {
-    "build": "eleventy"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/philhawksworth/eleventyone"
