@@ -20,6 +20,6 @@ New Drivers, Befrienders and Regular Shopping volunteers are required to have a 
 # How to become a volunteer
 
 If you would like to talk to someone first, please telephone the scheme between 9am and 1pm every day on
-{{ values.phone }} alternatively you can download an application form below:-
+<a href="tel:{{ values.phone }}">{{ values.phone }}</a> alternatively you can download an application form below:-
 
 - [Volunteers form](/assets/app1601.doc)
