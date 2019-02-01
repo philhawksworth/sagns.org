@@ -13,7 +13,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 1.4em;
+  font-size: 1.2em;
   @include bp(mid) {
     font-size: 1.8em;
   }
