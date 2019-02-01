@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 #### 6 – 8 pm the previous evening
 
-The ‘portable office’ is delivered to my home.   This is two sports bags which contain all I will need the next day, including diary, Daybook, card indexes, stationery and general information.
+The ‘portable office’ is delivered to my home. This is two sports bags which contain all I will need the next day, including diary, Daybook, card indexes, stationery and general information.
 
 #### My Duty Office Day - starting at 9 am the next morning
 

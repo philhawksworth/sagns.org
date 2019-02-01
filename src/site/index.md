@@ -18,7 +18,7 @@ We may be able to provide help with all kinds of things, including
 
 ## About the scheme
 
-The St Albans Good Neighbour Scheme is a free service, run entirely by volunteers and has been in operation since 1980. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call <a href="tel:+441727830713">01727 830 713</a> to speak to one of our duty officers.
+The St Albans Good Neighbour Scheme is a free service, run entirely by volunteers and has been in operation since 1980. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call <a href="tel:{{ values.phone }}">{{ values.phone }}</a> to speak to one of our duty officers.
 
 If you'd like to learn more about the scheme, you can read about its [history](/history).
 
@@ -46,7 +46,7 @@ visit a lonely person on a regular basis.
 
 ## Become a volunteer
 
-To learn how you can become a volunteer, or to find out more about other ways you can help, please call us on <a href="tel:+441727830713">01727 830 713</a> between 9am and 1pm any day of the year.
+To learn how you can become a volunteer, or to find out more about other ways you can help, please call us on <a href="tel:{{ values.phone }}">{{ values.phone }}</a> between 9am and 1pm any day of the year.
 
 Alternatively, you can submit your details directly on this site and we will be in touch. Simply fill out our [volunteer contact form](/contact#volunteer)
 
@@ -54,6 +54,6 @@ Alternatively, you can submit your details directly on this site and we will be 
 
 ## GDPR - Data Protection Privacy Notice
 
-We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/docs/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:dpo@sagns.org).
+We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:dpo@sagns.org).
 
 
