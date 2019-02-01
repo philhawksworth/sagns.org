@@ -1,6 +1,6 @@
 ---
-title: St Albans Good Neighbours Society
 layout: layouts/base.njk
+title: St Albans Good Neighbours Scheme
 ---
 
 > If you are a St Albans resident who is elderly, unwell, lonely, disabled or facing a crisis and do not have family or a good neighbour, we may be able to help.
@@ -55,5 +55,8 @@ Alternatively, you can submit your details directly on this site and we will be 
 ## GDPR - Data Protection Privacy Notice
 
 We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:dpo@sagns.org).
+
+
+
 
 
