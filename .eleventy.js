@@ -4,7 +4,6 @@ module.exports = function(config) {
   config.addFilter("dateDisplay", require("./filters/dates.js") );
   config.addFilter("timestamp", require("./filters/timestamp.js") );
   config.addPassthroughCopy("src/site/admin");
-  config.addPassthroughCopy("src/site/docs");
   config.addPassthroughCopy("src/site/assets");
 
   return {
