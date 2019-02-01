@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: next
 
-media_folder: "src/site/images" # Media files will be stored in the repo under static/images
-public_folder: "/images" # The src attribute for uploaded media will begin with /images
+media_folder: "src/site/assets" # Media files will be stored in the repo under static/images
+public_folder: "/assets" # The src attribute for uploaded media will begin with /images
 
 collections:
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
