@@ -17,6 +17,13 @@ title: Volunteering - St Albans Good Neighbours Society
 
 New Drivers, Befrienders and Regular Shopping volunteers are required to have a DBS check. This is administered through Care Check Limited.  Further information given by the relevant Section Leader.
 
+
+# Safeguarding
+
+We are committed to ensuring the welfare of our volunteers and everyone we help. For more information, read our [safeguarding policy](/assets/SAGNS-Safeguarding-Policy.docx).
+
+
+
 # How to become a volunteer
 
 If you would like to talk to someone first, please telephone the scheme between 9am and 1pm every day on
