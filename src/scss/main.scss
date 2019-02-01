@@ -39,10 +39,8 @@ a:visited {
 
 h1 > a:link,
 h1 > a:visited {
-   border-style: none;
-
   &:hover {
-  border-bottom-style: solid;
+    border-bottom-style: solid;
   }
 }
 

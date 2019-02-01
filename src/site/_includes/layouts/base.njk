@@ -10,13 +10,14 @@
   </head>
   <body>
     <header>
-        <ul class="nav">
+      <ul class="nav">
         <li><a href="/volunteering">Volunteering</a></li>
         <li><a href="/history">History</a></li>
         <li><a href="/faq">Questions</a></li>
         <li><a href="/contact">Contact</a></li>
       </ul>
-      <h1><a href="/">St Albans Good Neighbours Scheme</a></h1>
+      {% if page.url == "/" %}
+      <h1>St Albans Good Neighbours Scheme</h1>
       <div class="container">
         <p class="summary">
           A little help from your community.<br />
@@ -24,6 +25,12 @@
         </p>
       </div>
       <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
+      {% else %}
+      <h1><a href="/">St Albans Good Neighbours Scheme</a></h1>
+      <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
+      {% endif %}
+
+
     </header>
     <div class="container">
       {{ content | safe }}

@@ -12,7 +12,14 @@ h1, h2, h3, h4 {
   padding-bottom: 0.6em;
 }
 
-h1 { font-size: 1.8em;}
+h1 {
+  font-size: 1.4em;
+  @include bp(mid) {
+    font-size: 1.8em;
+  }
+}
+
+
 h2 { font-size: 1.8em;}
 h3 { font-size: 1.6em;}
 h4 { font-size: 1.2em;}
