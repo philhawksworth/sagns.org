@@ -1,8 +1,9 @@
 ---
 title: FAQ - St Albans Good Neighbours Society
 layout: layouts/base.njk
+headerImage: produce-leonie-wise-4301-unsplash.jpg
+subtitle: Common questions from those seeking assistance, or to volunteer their time.
 ---
-> Common questions from those seeking assistance, or to volunteer their time.
 
 ## Thinking of using the Scheme?
 

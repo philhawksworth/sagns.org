@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 title: St Albans Good Neighbours Scheme
+headerImage: coffee-cup-dan-gold-195891-unsplash.jpg
+subtitle: If you are a St Albans resident who is elderly, unwell, lonely, disabled or facing a crisis and do not have family or a good neighbour, we may be able to help.
 ---
-
-> If you are a St Albans resident who is elderly, unwell, lonely, disabled or facing a crisis and do not have family or a good neighbour, we may be able to help.
 
 ## Our Services
 

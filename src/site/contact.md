@@ -1,10 +1,9 @@
 ---
 layout: layouts/base.njk
 title: Contact us - St Albans Good Neighbours Scheme
+headerImage: coffee-chat-jessica-sysengrath-440137-unsplash.jpg
+subtitle: Please don't hesitate to contact us if you are seeking help, or if you would like to learn more about volunteering.
 ---
-> Please don't hesitate to contact us if you are seeking help, or if you would like to learn more about volunteering.
-
-Uniquely, we do not have any paid officers in the Scheme.  All our officers are volunteers, neither do we have an office.  The "Office" is the home of the Duty Officer of the day.
 
 ## Telephone
 

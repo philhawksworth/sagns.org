@@ -18,20 +18,21 @@
       </ul>
       {% if page.url == "/" %}
       <h1>St Albans Good Neighbours Scheme</h1>
-      <div class="container">
         <p class="summary">
           A little help from your community.<br />
           Operated by local volunteers since 1980.
         </p>
-      </div>
       <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
       {% else %}
       <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
       <h1><a href="/">St Albans Good Neighbours Scheme</a></h1>
       {% endif %}
-      {# <img src="/assets" class="hero" alt="Good neighbours" />ss #}
-
-
+      <div class="container">
+        <h2 class="subtitle">{{ subtitle }}</h2>
+        {% if headerImage %}
+        <img src="/assets/{{ headerImage }}?nf_resize=fit&w=900" class="hero" alt="Good neighbours" />
+        {% endif %}
+      </div>
     </header>
     <div class="container">
       {{ content | safe }}

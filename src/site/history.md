@@ -1,8 +1,9 @@
 ---
 title: History - St Albans Good Neighbours Society
 layout: layouts/base.njk
+headerImage: hands-together-rawpixel-651373-unsplash.jpg
+subtitle: The origins of the St Albans Good Neighbour Scheme lie back in late 1977.
 ---
-> The origins of the St Albans Good Neighbour Scheme lie back in late 1977.
 
 ## Looking back - moving forward
 

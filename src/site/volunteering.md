@@ -1,8 +1,9 @@
 ---
 layout: layouts/base.njk
 title: Volunteering - St Albans Good Neighbours Society
+headerImage: hand-shake-rawpixel-653769-unsplash.jpg
+subtitle: Our volunteers help to keep this service operating. By joining the team, you could help out in a number of different ways.
 ---
-> Our volunteers help to keep this service operating. By joining the team, you could help out in a number of different ways.
 
 # Volunteers can help in one or more of the following sections:-
 

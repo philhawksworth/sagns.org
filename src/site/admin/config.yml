@@ -16,4 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "text"}
+      - {label: "Header image", name: "headerImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+
