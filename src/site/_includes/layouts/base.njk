@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Serif|Source+Pro:400,700">
+    <style>{% include "css/main.css" %}</style>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <header>
+      <ul class="nav">
+        <li><a href="/volunteering">Volunteering</a></li>
+        <li><a href="/history">History</a></li>
+        <li><a href="/faq">Questions</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      {% if page.url == "/" %}
+      <h1>St Albans Good Neighbours Scheme</h1>
+        <p class="summary">
+          A little help from your community.<br />
+          Operated by local volunteers since 1980.
+        </p>
+      <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
+      {% else %}
+      <a href="tel:{{ values.phone }}" class="cta-phone">Need help? Call us on {{ values.phone }}</a>
+      <h1><a href="/">St Albans Good Neighbours Scheme</a></h1>
+      {% endif %}
+      <div class="container">
+        <h2 class="subtitle">{{ subtitle }}</h2>
+        {% if headerImage %}
+        <img src="/assets/{{ headerImage }}?nf_resize=fit&w=900" class="hero" alt="Good neighbours" />
+        {% endif %}
+      </div>
+    </header>
+    <div class="container">
+      {{ content | safe }}
+    </div>
+    {% include "footer.njk" %}
+  </body>
+</html>

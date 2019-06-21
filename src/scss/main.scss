@@ -1,0 +1,153 @@
+@import '_variables';
+@import '_mixins';
+@import '_type';
+
+
+* {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-color: $page-color;
+  color: $text-color;
+  text-align: center;
+}
+
+ul {
+  list-style-position: inherit;
+  padding-left: 2em;
+  padding-right: 1em;
+}
+
+a:link,
+a:visited {
+
+  text-decoration: none;
+  color: lighten($theme-color, 10%);
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: $page-accent-color;
+
+  &:hover {
+    color: lighten($theme-color, 30%);
+    border-color: lighten($theme-color, 30%);
+  }
+
+}
+
+h1 > a:link,
+h1 > a:visited {
+  &:hover {
+    border-bottom-style: solid;
+  }
+}
+
+.container {
+
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  @include bp(narrow) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  @include bp(mid) {
+    width: 550px;
+    font-size: 1.1em;
+  }
+  @include bp(wide) {
+    width: 750px;
+    font-size: 1.2em;
+  }
+
+}
+
+.summary {
+  border-top: solid 1px $page-accent-color;
+  border-bottom: solid 1px $page-accent-color;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.nav {
+
+  list-style: none;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 0em;
+  padding-right: 0em;
+
+  li {
+
+    margin-left :0.2em;
+    margin-right: 0.2em;
+
+    @include bp(narrow) {
+      display: inline;
+    }
+  }
+
+}
+
+header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+blockquote,
+.tout {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+footer {
+  margin-top: 4em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  border-top: solid 1px $page-accent-color;
+  color: darken($page-accent-color, 40%);
+  font-size: 0.8em;
+}
+
+a.cta-phone:link,
+a.cta-phone:visited {
+  display: inline-block;
+  margin-top: 1em;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  border-radius: 4px;
+  font-size: 1.1em;
+  font-weight: 400;
+  background-color: $theme-color;
+  color: $page-color;
+  border-bottom-color: darken($page-color, 20%);
+  border-bottom-width: 1px;
+
+  &:hover,
+  &:focus {
+    background-color: lighten($theme-color, 10%);
+  }
+}
+
+
+
+img.hero {
+  width: 100%;
+}
+
+h2.subtitle {
+  font-weight: 400;
+  font-size: 1.4em;
+  text-align: center;
+  margin-bottom: 1em;
+}

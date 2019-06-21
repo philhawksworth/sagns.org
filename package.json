@@ -1,11 +1,23 @@
 {
-  "name": "EleventyOne",
+  "name": "SAGNS",
   "version": "1.0.1",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for Sass, Js, and Lambdas",
+  "description": "St Albans Good Neighbours Scheme",
   "author": "Phil Hawksworth",
   "license": "MIT",
+  "scripts": {
+    "start": "gulp build & gulp watch & ELEVENTY_ENV=dev eleventy --serve",
+    "build": "gulp build & ELEVENTY_ENV=prod eleventy"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/eleventyone"
+    "url": "https://github.com/philhawksworth/sagns-11ty"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.3",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.21.0"
   }
 }
