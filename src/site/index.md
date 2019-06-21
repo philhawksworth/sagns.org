@@ -1,8 +1,11 @@
 ---
 layout: layouts/base.njk
 title: St Albans Good Neighbours Scheme
+subtitle: >-
+  If you are a St Albans resident who is elderly, unwell, lonely, disabled, or
+  facing a crisis and do not have family or a good neighbour, we may be able to
+  help.
 headerImage: coffee-cup-dan-gold-195891-unsplash.jpg
-subtitle: If you are a St Albans resident who is elderly, unwell, lonely, disabled, or facing a crisis and do not have family or a good neighbour, we may be able to help.
 ---
 
 ## Our Services
@@ -48,7 +51,7 @@ visit a lonely person on a regular basis.
 
 To learn how you can become a volunteer, or to find out more about other ways you can help, please call us on <a href="tel:{{ values.phone }}">{{ values.phone }}</a> between 9am and 1pm any day of the year.
 
-Alternatively, you can submit your details by filling out our [volunteer contact form](/assets/volunteer-application-form-January-2019.doc)
+Alternatively, you can submit your details by filling out our [volunteer contact form](/assets/volunteer-form.doc)
 
 
 
