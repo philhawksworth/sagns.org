@@ -5,7 +5,7 @@ subtitle: >-
   If you are a St Albans resident who is elderly, unwell, lonely, disabled, or
   facing a crisis and do not have family or a good neighbour, we may be able to
   help.
-headerImage: coffee-cup-dan-gold-195891-unsplash.jpg
+headerImage: /assets/hand-holding-tea.jpg
 ---
 
 ## Our Services
