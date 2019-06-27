@@ -5,7 +5,7 @@ subtitle: >-
   If you are a St Albans resident who is elderly, unwell, lonely, disabled, or
   facing a crisis and do not have family or a good neighbour, we may be able to
   help.
-headerImage: coffee-cup-dan-gold-195891-unsplash.jpg
+headerImage: /assets/hand-holding-tea.jpg
 ---
 
 ## Our Services
@@ -57,7 +57,7 @@ Alternatively, you can submit your details by filling out our [volunteer contact
 
 ## GDPR - Data Protection Privacy Notice
 
-We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:dpo@sagns.org).
+We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:rajesv@yahoo.co.uk).
 
 
 
