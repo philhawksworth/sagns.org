@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 title: FAQ - St Albans Good Neighbour Scheme
 subtitle: 'Common questions from those seeking assistance, or to volunteer their time.'
-headerImage: produce-leonie-wise-4301-unsplash.jpg
+headerImage: /assets/produce-leonie-wise-4301-unsplash.jpg
 ---
 ## Thinking of using the Scheme?
 
