@@ -1,10 +1,10 @@
 ---
 layout: layouts/base.njk
-title: Contact us - St Albans Good Neighbours Scheme
+title: Contact us - St Albans Good Neighbour Scheme
 subtitle: >-
   Please don't hesitate to contact us if you are seeking help, or if you would
   like to learn more about volunteering.
-headerImage: coffee-chat-jessica-sysengrath-440137-unsplash.jpg
+headerImage: /assets/volunteerdrivingshutterstock_518378137768.jpg
 ---
 
 ## Telephone
