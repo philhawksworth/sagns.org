@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: A Day in the Life of a Duty Officer - St Albans Good Neighbours Society
+title: A Day in the Life of a Duty Officer - St Albans Good Neighbour Scheme
 subtitle: >-
   A glimpse into the day-to-day activities of a St Albans Good Neighbour Scheme
   duty officer.
