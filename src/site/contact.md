@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Contact us - St Albans Good Neighbours Scheme
+title: Contact us - St Albans Good Neighbour Scheme
 subtitle: >-
   Please don't hesitate to contact us if you are seeking help, or if you would
   like to learn more about volunteering.
