@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: St Albans Good Neighbours Scheme
+title: St Albans Good Neighbour Scheme
 subtitle: >-
   If you are a St Albans resident who is elderly, unwell, lonely, disabled, or
   facing a crisis and do not have family or a good neighbour, we may be able to
