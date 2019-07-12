@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Volunteering - St Albans Good Neighbour Scheme
+title: Volunteering - St Albans Good Neighbours Scheme
 subtitle: >-
   Our volunteers help to keep this service operating. By joining the team, you
   could help out in a number of different ways.
