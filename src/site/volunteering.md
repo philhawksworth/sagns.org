@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Volunteering - St Albans Good Neighbour Scheme
+title: Volunteering - St Albans Good Neighbours Scheme
 subtitle: >-
   Our volunteers help to keep this service operating. By joining the team, you
   could help out in a number of different ways.
@@ -22,7 +22,7 @@ New Drivers, Befrienders and Regular Shopping volunteers are required to have a 
 
 # Safeguarding
 
-We are committed to ensuring the welfare of our volunteers and everyone we help. For more information, read our safeguarding policy which is available via our helpline
+We are committed to ensuring the welfare of our volunteers and everyone we help. For more information, read our safeguarding policy which is available via our helpline.
 
 # How to become a volunteer
 
