@@ -6,4 +6,4 @@ subtitle: >-
   what to do.
 headerImage: /assets/old-lady-portrait-2.jpg
 ---
-you can [view the Safeguarding presentation by clicking here](/assets/sagns-safeguarding-presentation.ppsx)
+you can [view the Safeguarding presentation by clicking here](/assets/sagns-safeguarding-presentation.ppsm)
