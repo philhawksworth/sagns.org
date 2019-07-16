@@ -4,7 +4,6 @@ title: History - St Albans Good Neighbour Scheme
 subtitle: The origins of the St Albans Good Neighbour Scheme lie back in late 1977.
 headerImage: /assets/hands-together-rawpixel-651373-unsplash.jpg
 ---
-
 ## Looking back - moving forward
 
 In 1977 the then St Albans Council of Churches, now Churches Together, wanted to set up a local community initiative.  Various ideas were considered but by 1979 they had settled on a good neighbour scheme telephone helpline.
@@ -17,7 +16,6 @@ In those early years the Scheme operated 24 hours a day which required an enormo
 
 The Scheme still runs today with just under 200 volunteers but certainly the client base and the number of calls handled (2,000 per annum at the last count) has increased very considerably over the years.
 
-Generous donations and low running costs have enabled the Scheme to remain financially secure but throughout its history the St Albans Good Neighbour Scheme has had to work hard to find new volunteers to maintain the level of service offered.  Many of those the Scheme has helped in one capacity have become volunteers for the Scheme in another capacity! Our volunteers are well appreciated by those whom we help and the flexibility of the Scheme has meant that we have retained many of our volunteers for long periods.
+Generous donations and low running costs have enabled the Scheme to remain financially secure but throughout its history the St Albans Good Neighbour Scheme has had to work hard to find new volunteers to maintain the level of service offered.  Our volunteers are well appreciated by those whom we help and the flexibility of the Scheme has meant that we have retained many of our volunteers for long periods.
 
 The continuing challenge for the Scheme will be to remain responsive to the needs of clients and as imaginative as possible in the recruitment of volunteers.
-
