@@ -7,45 +7,46 @@ subtitle: >-
   help.
 headerImage: /assets/hand-holding-tea.jpg
 ---
-
 ## Our Services
 
 We may be able to provide help with all kinds of things, including
 
-- transport
-- shopping
-- befriending
-- collecting prescriptions
-- gardening
-- odd jobs etc.
+* transport
+* shopping
+* befriending
+* collecting prescriptions
+* gardening
+* odd jobs etc.
 
 ## About the scheme
 
-The St Albans Good Neighbour Scheme is a free service, run entirely by volunteers and has been in operation since 1980. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call <a href="tel:{{ values.phone }}">{{ values.phone }}</a> to speak to one of our duty officers.
+The St Albans Good Neighbour Scheme is run entirely by volunteers and has been in operation since 1980. Our phone line is manned between 9am and 1pm every day of the year. If you need our help, please call <a href="tel:{{ values.phone }}">{{ values.phone }}</a> to speak to one of our duty officers.
 
 If you'd like to learn more about the scheme, you can read about its [history](/history).
-
-
 
 ## Our Volunteers
 
 We always need volunteers to help with the following roles and activites:
 
 #### Duty Officer
+
 to use the telephone in your own home for one day per month to receive requests from clients and find suitable volunteers - training - given and we pay for the calls you make.
 
 #### Regular Shopping
+
 shop, pick up prescriptions or relieve carers for short periods.
 
 #### Practical Help
+
 heavier jobs around the home - moving furniture, minor repairs, decorating and gardening.
 
 #### Transport
+
 use your own car to take people to and from the shops, doctors, hospital etc. - we pay mileage costs towards expenses.
 
 #### Befriending
-visit a lonely person on a regular basis.
 
+visit a lonely person on a regular basis.
 
 ## Become a volunteer
 
@@ -53,13 +54,6 @@ To learn how you can become a volunteer, or to find out more about other ways yo
 
 Alternatively, you can submit your details by filling out our [volunteer contact form](/assets/volunteer-form.doc)
 
-
-
 ## GDPR - Data Protection Privacy Notice
 
 We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email:- [dpo@sagns.org](mailto:rajesv@yahoo.co.uk).
-
-
-
-
-
