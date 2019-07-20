@@ -11,11 +11,11 @@ headerImage: /assets/do-laptop-and-phone.jpg
 
 #### 6 – 8 pm the previous evening
 
-The ‘portable office’ is delivered to my home. This is two sports bags which contain all I will need the next day, including diary, Daybook, card indexes, stationery and general information.
+The ‘portable office’ is delivered to my home. This is contains all I will need the next day, including diary, Day Book, card indexes, stationery and general information.
 
 #### My Duty Office Day - starting at 9 am the next morning
 
-The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme. Check the phone line is set up correctly for my number.   Quickly read the last few pages of entries in the Daybook to get a picture of recent requests.
+The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme. Check the phone line is set up correctly for my number.   Quickly read the last few pages of entries in the Day Book to get a picture of recent requests.
 
 #### 9.15 am - the first call is received
 
