@@ -15,7 +15,7 @@ The ‘portable office’ is delivered to my home. This is contains all I will n
 
 #### My Duty Office Day - starting at 9 am the next morning
 
-The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme. Check the phone line is set up correctly for my number.   Quickly read the last few pages of entries in the Day Book to get a picture of recent requests.
+The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme.I quickly read the last few pages of entries in the Day Book to get a picture of recent requests.
 
 #### 9.15 am - the first call is received
 
@@ -23,7 +23,7 @@ A 92 year old needs transport to the Foot Clinic at the hospital.  She tells me 
 
 #### 10 am – 1 pm – further calls come in
 
-An elderly person would like someone to trim a hedge, another to be visited by a befriender and a third needs shopping done regularly. These requests I pass directly to the Section leaders/co-ordinators who will find suitable volunteers and arrange mutually convenient times. And so the day continues.  A few more calls come in. I usually wait until I have several jobs to set up and ring our volunteers at lunch-time or late afternoon when they are more likely to be at home.  No-one gets a black mark for being unavailable, but a note is made on their card so that they are not asked again for the same date.  When the jobs are set up, I ring the clients to tell them what time they will be picked up. Another job for Duty Officers is to telephone the volunteers who are doing a job the next day to remind them of their pick-up time.
+An elderly person would like someone to trim a hedge, another to be visited by a befriender and a third needs shopping done regularly. These requests I pass directly to the Section leaders/co-ordinators who will find suitable volunteers and arrange mutually convenient times. And so the day continues.  A few more calls come in. I usually wait until I have several jobs to set up and ring our volunteers at lunch-time or late afternoon when they are more likely to be at home.  No-one gets a black mark for being unavailable.  When the jobs are set up, I ring the clients to tell them what time they will be picked up. Another job for Duty Officers is to telephone the volunteers who are driving the next day to remind them of their pick-up time.
 
 #### Before 6 pm
 
