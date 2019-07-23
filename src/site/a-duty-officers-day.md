@@ -6,16 +6,15 @@ subtitle: >-
   duty officer.
 headerImage: /assets/do-laptop-and-phone.jpg
 ---
-
 ## A Day in the Life of a Duty Officer
 
 #### 6 – 8 pm the previous evening
 
-The ‘portable office’ is delivered to my home. This is contains all I will need the next day, including diary, Day Book, card indexes, stationery and general information.
+The ‘portable office’ is delivered to my home. This contains all I will need the next day, including diary, Day Book, card indexes, stationery and general information.
 
 #### My Duty Office Day - starting at 9 am the next morning
 
-The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme.I quickly read the last few pages of entries in the Day Book to get a picture of recent requests.
+The phone line is open until 1 pm and I will be answering the helpline on behalf of the Good Neighbour Scheme. I quickly read the last few pages of entries in the Day Book to get a picture of recent requests.
 
 #### 9.15 am - the first call is received
 
@@ -38,5 +37,3 @@ I take the ‘portable office’ to tomorrow’s Duty Officer.   If I didn’t h
 A busy day but worthwhile – one person will be taken to the hospital, another to the dentist, one to visit her daughter, one will be taken shopping, one will shortly have their hedge cut, another will be introduced to a regular shopper and another will be contacted with a view to having a befriender visit them weekly for a chat and a cup of tea.
 
 All that is required is a friendly telephone manner, readable hand-writing (we are not yet fully computerised!) and a desire to help others who do not have family or good neighbour available to help them in a wide range of practical ways.    The help we provide really does make a difference to lives of residents of St Albans and District, is much appreciated by them, and only rarely are we unable to help.   Training is given to our new D.O.s and we have our own mobile telephone. If you can spare just one day a month – or quarter – to do this job from the comfort of your own home, please contact us direct on 01727 830 713 or download our [volunteer contact form](/assets/volunteer-form.doc)
-
-
