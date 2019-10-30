@@ -15,7 +15,7 @@ This number will be put through to the Duty Officer of the day.
 
 ## Email
 
-Non urgent general enquiries may be sent to our unmanned email address:-
+Non-urgent general enquiries may be sent to our unmanned email address:-
 <a href="mailto:admin@sagns.org">admin@sagns.org</a>
 
 ## How to become a volunteer
