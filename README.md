@@ -1,17 +1,16 @@
 # St Albans Good Neighbour Society
 
-A website for a local charity organisation. (To replace http://sagns.org)
+A website for a local charity organisation: http://sagns.org
 
-Currently availble to view at [https://sagns.netlify.com](https://sagns.netlify.com)
 
 ## Maintaining this site
 
-Maintiaining this site will require either content management or code development. Most updates should only need to performed as content management.
+Maintaining this site will require either content management or code development. Most updates should only need to performed as content management.
 
 
 ### Content Management
 
-The content for the site is updateable without the need to write code thanks to a simple CMS (content management system) provided by [NetlifyCMS](https://www.netlifyCMS.com).
+The content for the site is updatable without the need to write code thanks to a simple CMS (content management system) provided by [NetlifyCMS](https://www.netlifyCMS.com).
 
 
 ### Code development
@@ -44,10 +43,10 @@ Builds typically take a few seconds and updates should usually be visible in the
 
 ## Hosting
 
-The live site is hosted on [Netlify](https://www.netlify.com) as a static web site and visible online at [https://sagns.netlify.com](https://sagns.netlify.com).
+The live site is hosted on [Netlify](https://www.netlify.com) as a static web site and visible online at [https://sagns.netlify.com](https://sagns.netlify.com) and on its production domain at [https://sagns.org](https://sagns.org)
 
 Feature branches can be deployed on Netlify for testing. Any git branch pushed to this repository will become available for testing at `https://{BRANCH-NAME}--sagns.netlify.com`
 
-Source code for the site is hosted on Github at [https://github.com/philhawksworth/sagns.com](https://github.com/philhawksworth/sagns.com)
+Source code for the site is hosted on Github at [https://github.com/philhawksworth/sagns.org](https://github.com/philhawksworth/sagns.org)
 
 
