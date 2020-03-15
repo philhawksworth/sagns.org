@@ -9,7 +9,13 @@ headerImage: /assets/hand-holding-tea.jpg
 ---
 ## **Coronavirus**
 
+Here at the Good Neighbours the wellbeing of our volunteers and clients is our top priority. We are taking this unprecedented situation very seriously and giving updated advice to our volunteers, based on government and Public Health England advice, but also taking particular account of our clients' vulnerability.
 
+We are currently receiving large numbers of offers of help from wonderful members of the community. Unfortunately we don't have the infrastructure to co-ordinate all the necessary DBS checks and references that a charity like ours must do. So, can we suggest that to be a "good neighbour" during these exceptional times, you
+
+* put a note through your neighbours' doors offering help 
+* link with informal groups on social media
+* join in with other initiatives
 
 ## Our Services
 
