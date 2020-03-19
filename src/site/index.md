@@ -35,7 +35,7 @@ If you'd like to learn more about the scheme, you can read about its [history](/
 
 ## Our Volunteers
 
-We always need volunteers to help with the following roles and activites:
+We always need volunteers to help with the following roles and activities:
 
 #### Duty Officer
 
