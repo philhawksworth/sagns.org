@@ -65,4 +65,4 @@ Alternatively, you can submit your details by filling out our [volunteer contact
 
 ## GDPR - Data Protection Privacy Notice
 
-We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email: [gdpr@stalbansgoodneighbourscheme.org.uk](mailto:ted_smith@btinternet.com).
+We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/gdpr_privacy_policy.pdf), or contact our Data Controller by email: [gdpr@stalbansgoodneighbourscheme.org.uk](mailto:gdpr@stalbansgoodneighbourscheme.org.uk).
