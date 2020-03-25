@@ -29,4 +29,4 @@ We are committed to ensuring the welfare of our volunteers and everyone we help.
 If you would like to talk to someone first, please telephone the scheme between 9am and 1pm every day on
 <a href="tel:{{ values.phone }}">{{ values.phone }}</a>.
 
-Alternatively you can [download a volunteer application form](/assets/volunteer-form.doc).
+Alternatively you can [fill in in the online membership application form] (2020-03-25-st-albans-good-neighbour-scheme/) or [download a volunteer application form](/assets/volunteer-form.doc).
