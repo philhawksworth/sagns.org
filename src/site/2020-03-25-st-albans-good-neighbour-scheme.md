@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Online Application for membership St Albans Good Neighbour Scheme
+title: Online Application for membership - St Albans Good Neighbour Scheme
 subtitle: Fill in this online form to apply for membership
 headerImage: /assets/hand-holding-tea.jpg
 ---
