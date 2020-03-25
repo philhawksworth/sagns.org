@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: St Albans Good Neighbour Scheme
+title: Online Application for membership
 subtitle: Online Application for membership
 headerImage: /assets/hand-holding-tea.jpg
 ---
