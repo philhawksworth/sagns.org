@@ -1,8 +1,6 @@
 ---
 layout: layouts/base.njk
-title: >-
-  Test page - Online Application for membership - St Albans Good Neighbour
-  Scheme
+title: Test page
 subtitle: Fill in this online form to apply for membership
 headerImage: /assets/hand-holding-tea.jpg
 ---
