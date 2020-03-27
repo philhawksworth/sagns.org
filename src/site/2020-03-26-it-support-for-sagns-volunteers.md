@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 title: IT Support for SAGNS volunteers
 subtitle: Helping SAGNS volunteers with their computer/laptop/tablet/smartphone
-headerImage: /assets/hand-holding-tea.jpg
+headerImage: /assets/macbook-pro-on-brown-wooden-table-3815750.jpg
 ---
 <!--StartFragment-->
 
