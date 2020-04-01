@@ -16,16 +16,15 @@ We are currently receiving large numbers of offers of help from wonderful member
 * put a note through your neighbours' doors offering help 
 * join in with other initiatives such as [Communities 1st](https://www.communities1st.org.uk/COVID-19-community-signup)
 
-## Our Services
+## Our Services During the Coronavirus Crisis
 
 We may be able to provide help with all kinds of things, including
 
-* transport
-* shopping
-* befriending
-* collecting prescriptions
-* gardening
-* odd jobs etc.
+* Shopping
+* Collecting Prescriptions
+* Regular telephone befriending
+* Same day phone call from a friendly, caring volunteer
+* Lifts to urgent medical appointments
 
 ## About the scheme
 
@@ -61,7 +60,7 @@ visit a lonely person on a regular basis.
 
 To learn how you can become a volunteer, or to find out more about other ways you can help, please call us on <a href="tel:{{ values.phone }}">{{ values.phone }}</a> between 9am and 1pm any day of the year.
 
-Alternatively, you can fill in the [online membership application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.doc). 
+Alternatively, you can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.doc). 
 
 ## GDPR - Data Protection Privacy Notice
 
