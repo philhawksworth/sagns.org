@@ -34,7 +34,7 @@ A. Clients are usually limited to two requests for help a month, unless there ar
 
 #### Q. How do I apply to be a Volunteer?
 
-A. You can fill in the [online membership application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.doc) or telephone our Helpline {{ values.phone }} to speak to a Duty Officer who will pass your details to our Membership Secretary.
+A. You can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.doc) or telephone our Helpline {{ values.phone }} to speak to a Duty Officer who will pass your details to our Membership Secretary.
 
 #### Q. Do I need any qualifications or experience?
 
