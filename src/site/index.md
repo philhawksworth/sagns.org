@@ -25,9 +25,9 @@ We may be able to provide help with all kinds of things, including
 * Same day phone call from a friendly, caring volunteer
 * Lifts to urgent medical appointments
 
-![]()
-
 We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the Coronavirus crisis.
+
+![Hertfordshire Community Foundation](/assets/hcf-small-logo.jpg "Hertfordshire Community Foundation") For more information about HCF please visit their website at [hertscf.org.uk](hertscf.org.uk).
 
 ## About the scheme
 
