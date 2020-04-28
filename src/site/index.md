@@ -27,7 +27,7 @@ We may be able to provide help with all kinds of things, including
 
 We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the Coronavirus crisis.
 
-![Hertfordshire Community Foundation](/assets/hcf-small-logo.jpg "Hertfordshire Community Foundation") For more information about HCF please visit their website at [hertscf.org.uk](hertscf.org.uk).
+![Hertfordshire Community Foundation](/assets/hcf-small-logo.jpg "Hertfordshire Community Foundation") For more information about HCF please visit their website at [hertscf.org.uk](http://www.hertscf.org.uk).
 
 ## About the scheme
 
