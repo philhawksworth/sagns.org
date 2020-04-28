@@ -15,8 +15,6 @@ We are currently receiving large numbers of offers of help from wonderful member
 * put a note through your neighbours' doors offering help 
 * join in with other initiatives such as [Communities 1st](https://www.communities1st.org.uk/COVID-19-community-signup)
 
-We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the coronavirus crisis
-
 ## Our Services During the Coronavirus Crisis
 
 We may be able to provide help with all kinds of things, including
@@ -26,6 +24,10 @@ We may be able to provide help with all kinds of things, including
 * Regular telephone befriending
 * Same day phone call from a friendly, caring volunteer
 * Lifts to urgent medical appointments
+
+![]()
+
+We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the Coronavirus crisis.
 
 ## About the scheme
 
