@@ -1,10 +1,9 @@
 ---
 layout: layouts/base.njk
 title: St Albans Good Neighbour Scheme
-subtitle: >-
-  If you are a St Albans resident who is elderly, unwell, lonely, disabled, or
-  facing a crisis and do not have family or a good neighbour, we may be able to
-  help.
+subtitle: If you are a St Albans resident who is elderly, unwell, lonely,
+  disabled, or facing a crisis and do not have family or a good neighbour, we
+  may be able to help.
 headerImage: /assets/hand-holding-tea.jpg
 ---
 ## **Coronavirus**
@@ -15,6 +14,8 @@ We are currently receiving large numbers of offers of help from wonderful member
 
 * put a note through your neighbours' doors offering help 
 * join in with other initiatives such as [Communities 1st](https://www.communities1st.org.uk/COVID-19-community-signup)
+
+We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the coronavirus crisis
 
 ## Our Services During the Coronavirus Crisis
 
