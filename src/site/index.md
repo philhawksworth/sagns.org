@@ -25,9 +25,9 @@ We may be able to provide help with all kinds of things, including
 * Befriending (no new referrals until further notice)
 * Lifts to urgent medical appointments
 
-We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the Coronavirus crisis.
-
 Please note that our services are subject to change in the event of local or national lockdown restrictions.
+
+We are delighted to announce that we have been awarded a grant from Hertfordshire Community Foundation towards the additional costs of our services during the Coronavirus crisis.
 
 ![Hertfordshire Community Foundation](/assets/hcf-small-logo.jpg "Hertfordshire Community Foundation") For more information about HCF please visit their website at [hertscf.org.uk](http://www.hertscf.org.uk).
 
