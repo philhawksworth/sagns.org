@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: FAQ - St Albans Good Neighbour Scheme
-subtitle: 'Common questions from those seeking assistance, or to volunteer their time.'
+subtitle: Common questions from those seeking assistance, or to volunteer their time.
 headerImage: /assets/produce-leonie-wise-4301-unsplash.jpg
 ---
 ## Thinking of using the Scheme?
@@ -34,7 +34,7 @@ A. Clients are usually limited to two requests for help a month, unless there ar
 
 #### Q. How do I apply to be a Volunteer?
 
-A. You can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.doc) or telephone our Helpline {{ values.phone }} to speak to a Duty Officer who will pass your details to our Membership Secretary.
+A. You can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or submit your details by filling out our [volunteer application form](/assets/volunteer-form.docx) or telephone our Helpline {{ values.phone }} to speak to a Duty Officer who will pass your details to our Volunteer Coordinator.
 
 #### Q. Do I need any qualifications or experience?
 
