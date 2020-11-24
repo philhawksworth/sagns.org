@@ -10,11 +10,6 @@ headerImage: /assets/hand-holding-tea.jpg
 
 Here at the St Albans Good Neighbour Scheme the wellbeing of our volunteers and clients is our top priority. We are taking this unprecedented situation very seriously and giving updated advice to our volunteers, based on government and Public Health England advice, but also taking particular account of our clients' vulnerability.
 
-We are currently receiving large numbers of offers of help from wonderful members of the community. Unfortunately we don't have the infrastructure to co-ordinate all the necessary DBS checks and references that a charity like ours must do. So, can we suggest that to be a "good neighbour" during these exceptional times, you
-
-* put a note through your neighbours' doors offering help 
-* join in with other initiatives such as [Communities 1st](https://www.communities1st.org.uk/COVID-19-community-signup)
-
 ## Our Services During the Coronavirus Crisis
 
 We may be able to provide help with all kinds of things, including
