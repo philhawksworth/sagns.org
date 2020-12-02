@@ -32,7 +32,7 @@ The St Albans Good Neighbour Scheme is run entirely by volunteers and has been i
 
 If you'd like to learn more about the scheme, you can read about its [history](/history).
 
-To find out more about all our activities this year, please read our informative and lively Annual Report 2019-20. Due to Covid-19 restrictions we held our AGM in November remotely, but all the reports our Section Leaders would have delivered in person can be read in this Report.
+To find out more about all our activities this year, please read our informative and lively [Annual Report 2019-20](</assets/SAGNS 2020 ANNUAL REPORT.pdf>). Due to Covid-19 restrictions we held our AGM in November remotely, but all the reports our Section Leaders would have delivered in person can be read in this Report.
 
 ## Our Volunteers
 
