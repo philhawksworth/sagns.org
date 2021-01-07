@@ -1,9 +1,8 @@
 ---
 layout: layouts/base.njk
 title: Contact us - St Albans Good Neighbour Scheme
-subtitle: >-
-  Please don't hesitate to contact us if you are seeking help, or if you would
-  like to learn more about volunteering.
+subtitle: Please don't hesitate to contact us if you are seeking help, or if you
+  would like to learn more about volunteering.
 headerImage: /assets/volunteerdrivingshutterstock_518378137768.jpg
 ---
 ## Telephone
@@ -16,4 +15,4 @@ Non-urgent general enquiries may be sent to our unmanned email address:- <a href
 
 ## How to become a volunteer
 
-If you would like to talk to someone first, please telephone the scheme between 9am and 1pm every day, 365 days p.a. on <a href="tel:{{ values.phone }}">{{ values.phone }}</a> alternatively you can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or download a [volunteer application form](/assets/volunteer-form.doc).
+If you would like to talk to someone first, please telephone the scheme between 9am and 1pm every day, 365 days p.a. on <a href="tel:{{ values.phone }}">{{ values.phone }}</a> alternatively you can fill in the [online volunteer application form](/2020-03-25-st-albans-good-neighbour-scheme/) or download a [volunteer application form](/assets/volunteer-form.docx).
