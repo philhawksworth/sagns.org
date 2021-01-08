@@ -14,11 +14,11 @@ Here at the St Albans Good Neighbour Scheme the wellbeing of our volunteers and 
 
 We may be able to provide help with all kinds of things, including
 
-* Shopping
+* Lifts to urgent medical appointments
 * Collecting Prescriptions
+* Shopping
 * Practical Help, in certain circumstances - please call to discuss
 * Befriending (no new referrals until further notice)
-* Lifts to urgent medical appointments
 
 Please note that our services are subject to change in the event of local or national lockdown restrictions.
 
