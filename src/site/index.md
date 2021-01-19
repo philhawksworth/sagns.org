@@ -48,7 +48,7 @@ shop, pick up prescriptions or relieve carers for short periods.
 
 #### Practical Help
 
-heavier jobs around the home - moving furniture, minor repairs, decorating and gardening.
+volunteers can help with a variety of odd jobs and minor repairs as well as one-off gardening and moving furniture.
 
 #### Transport
 
