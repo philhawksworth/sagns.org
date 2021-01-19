@@ -11,7 +11,7 @@ headerImage: /assets/hand-shake-rawpixel-653769-unsplash.jpg
 * Bag Movers – kindly transfer the bags for those Duty Officers who are unable to transfer the bags themselves.  Usually about 14 transfers required each - month, therefore frequency for each volunteer is about once every other month.
 * Transport – volunteers use their own cars to transport clients usually in and around St Albans, but sometimes further afield.  About half of the - journeys involve taking clients to hospital appointments, a quarter are social e.g. family visits, shopping expeditions and community centres, the - remainder are classified as medical, i.e. doctors surgeries, dentists, opticians, clinics etc.
 * Regular Shopping – volunteers provide help with shopping, relieve carers and collect prescriptions usually for those clients who are housebound.
-* Practical Help – volunteers handle heavier jobs around the home, e.g. moving furniture, minor repairs, decorating and gardening.
+* Practical Help – volunteers can help with a variety of odd jobs and minor repairs as well as one-off gardening and moving furniture as, more often than not, decorating jobs have to be refused
 * Befriending – volunteers visit the elderly in their own homes about once a week, to provide companionship and a chat when needed.
 
 # Disclosure & Barring Service Checks
