@@ -66,4 +66,4 @@ Alternatively, you can fill in the [online volunteer application form](/2020-03-
 
 ## GDPR - Data Protection Privacy Notice
 
-We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/sagns-privacy-notice.pdf), or contact our Data Controller by email: [gdpr@stalbansgoodneighbourscheme.org.uk](mailto:gdpr@stalbansgoodneighbourscheme.org.uk).
+We take our data privacy responsibilities very seriously at St Albans Good Neighbour Scheme, and want you to understand and feel confident about how we protect and handle your personal data. If you would like to find out more you can read our [Privacy Notice](/assets/SAGNS-Privacy-Notice.pdf), or contact our Data Controller by email: [gdpr@stalbansgoodneighbourscheme.org.uk](mailto:gdpr@stalbansgoodneighbourscheme.org.uk).
